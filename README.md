@@ -16,7 +16,7 @@ Tech Stack yang Digunakan
 Dengan menggunakan teknologi stack ini, aplikasi yang dibangun dapat memiliki performa yang lebih cepat, lebih aman, dan memiliki tampilan yang lebih menarik dan mudah digunakan. Fitur dark mode dan antd dapat mempermudah pengembang dalam membuat tampilan aplikasi yang menarik dan efisien. Sementara itu, penggunaan RTK Query dapat mempermudah pengembang dalam mengambil data dari REST API. Vite juga mempermudah pengembang dalam mengembangkan aplikasi dengan cepat dan efisien.
 # Test Algoritma
 
-![Alt text](https://github.com/SwitchZer/test-algoritma-js/blob/03db332fdefaa0705b3115d63c9d7ee6768fdbe5/demo1.PNG)
+![Alt text]([https://github.com/SwitchZer/test-algoritma-js/blob/03db332fdefaa0705b3115d63c9d7ee6768fdbe5/demo1.PNG])
 
 [Algoritma](https://github.com/SwitchZer/test-algoritma-js)
 
