@@ -7,6 +7,8 @@
 5. Redux Toolkit
 6. RTK Query
 
-#   r e a c t - r e d u x - v i t e  
- #   r e a c t - r e d u x - v i t e  
- 
+# Test Algoritma
+[Algoritma](https://github.com/SwitchZer/test-algoritma-js)
+
+# Demo Image
+[Image](https://github.com/SwitchZer/test-image)
