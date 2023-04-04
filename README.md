@@ -1,12 +1,19 @@
 # NEWS APP BY ALFRED CHRISTIAN NUGRAHA
 
-1. React
-2. Typescrypt
-3. Antd
-4. Vite
-5. Redux Toolkit
-6. RTK Query
+Aplikasi yang Digunakan
 
+1. React - Sebuah library JavaScript yang digunakan untuk membuat antarmuka pengguna (user interface) pada website dan aplikasi web.
+
+2. TypeScript (TS) - Sebuah superset dari JavaScript yang menyediakan tipe data statis, sehingga memungkinkan pengembang untuk menulis kode yang lebih aman dan mudah dipelihara.
+
+3. Dark Mode - Fitur yang memungkinkan pengguna untuk mengubah tampilan aplikasi menjadi mode gelap yang lebih nyaman untuk dilihat pada kondisi cahaya rendah atau malam hari.
+4. RTK Query - Sebuah library dari Redux Toolkit yang digunakan untuk melakukan query data pada REST API dengan mudah dan efisien.
+
+5. Vite - Sebuah build tool yang ringan dan cepat untuk aplikasi web modern. Vite menggunakan fitur-fitur baru dari JavaScript seperti import on-demand dan module      bundling.
+
+6. Antd - Sebuah library UI untuk React yang menyediakan komponen-komponen UI yang dapat digunakan untuk mempercepat pengembangan aplikasi.
+
+Dengan menggunakan teknologi stack ini, aplikasi yang dibangun dapat memiliki performa yang lebih cepat, lebih aman, dan memiliki tampilan yang lebih menarik dan mudah digunakan. Fitur dark mode dan antd dapat mempermudah pengembang dalam membuat tampilan aplikasi yang menarik dan efisien. Sementara itu, penggunaan RTK Query dapat mempermudah pengembang dalam mengambil data dari REST API. Vite juga mempermudah pengembang dalam mengembangkan aplikasi dengan cepat dan efisien.
 # Test Algoritma
 
 ![Alt text](https://github.com/SwitchZer/test-algoritma-js/blob/03db332fdefaa0705b3115d63c9d7ee6768fdbe5/test1.PNG)
