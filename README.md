@@ -11,4 +11,4 @@
 [Algoritma](https://github.com/SwitchZer/test-algoritma-js)
 
 # Demo Image
-[Image](https://github.com/SwitchZer/test-image)
+![Alt text](https://github.com/SwitchZer/test-image/blob/b6f91a98ea5e3297eb62f097871f3826e741def2/1.PNG)
