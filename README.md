@@ -9,6 +9,7 @@
 
 # Test Algoritma
 
+![Alt text](https://github.com/SwitchZer/test-algoritma-js/blob/03db332fdefaa0705b3115d63c9d7ee6768fdbe5/test1.PNG)
 
 [Algoritma](https://github.com/SwitchZer/test-algoritma-js)
 
